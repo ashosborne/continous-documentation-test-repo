@@ -1,7 +1,7 @@
 {
 	"type": "component",
-	"id": "iphone_app",
-	"label": "iPhone App",
+	"id": "http_client",
+	"label": "hello world endpoint",
 	"color": "#CDDC39",
 	"connections": ["server"],
 	"description": "Our iPhone app which gives our users access to their to-do lists."
